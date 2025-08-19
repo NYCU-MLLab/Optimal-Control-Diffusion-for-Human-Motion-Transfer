@@ -15,4 +15,3 @@ activate the environment
 ```
     bash ./command_optimal_control_infer.sh
 ```
-output will be saved in `inference/optimal_control_results/`
